@@ -1,0 +1,13 @@
+.paragrafo-um{
+    margin: 40px;          /* Espaçamento externo de 40px */
+    padding: 20px;         /* Espaçamento interno de 20px */
+    background-color: #ffcc99; /* Cor de fundo aleatória (laranja claro) */
+    color: #333;           /* Cor do texto (cinza escuro, para contraste) */
+}
+
+.paragrafo-dois{
+    margin: 40px;          /* Espaçamento externo de 40px */
+    padding: 20px;         /* Espaçamento interno de 20px */
+    background-color: #F0CCE2; /* Cor de fundo aleatória (laranja claro) */
+    color: #333;           /* Cor do texto (cinza escuro, para contraste) */
+}
